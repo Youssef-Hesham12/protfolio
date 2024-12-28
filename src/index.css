@@ -1,0 +1,19 @@
+.layer{
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(201, 181, 181, 0.5);
+  opacity: 0;
+  transition: all 0.5s;
+}
+.item:hover .layer{
+  opacity: 1;
+
+}
+.layer i{
+  font-size: 40px;
+  color:  white;
+  cursor: pointer;
+}

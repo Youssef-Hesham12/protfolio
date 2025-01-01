@@ -13,6 +13,7 @@ function App() {
     <Profilio>
       
     </Profilio>
+      <h2>oiujhkg</h2>
 
     </>
   )
